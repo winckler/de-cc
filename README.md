@@ -38,6 +38,7 @@ The code was written in Python, only using standard modules, compatible with pyt
 The code was benchmarked with 5 datasets: 1K, 10K, 100K, 1M, 10M elements.
 
 samples | user time (s)
+--------|--------------
 1K      | 0.054
 10K     | 0.170
 100K    | 1.34
